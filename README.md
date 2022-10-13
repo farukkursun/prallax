@@ -5,7 +5,7 @@ https://farukkursun.github.io/prallax/
 https://github.com/farukkursun/prallax.git
 
 ## Description
-Google landing page created in this project.
+Parallax website created in this project.
 
 
 ```
